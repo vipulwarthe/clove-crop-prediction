@@ -1,0 +1,13 @@
+pystac-client
+planetary-computer
+stackstac
+numpy
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
+dask[complete]
+rasterio
+geopandas
+mlflow
